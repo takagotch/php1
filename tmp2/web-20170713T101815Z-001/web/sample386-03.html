@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>フォームの書式</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<div class="container">        <!-- 全体を囲むコンテナ -->
+
+<h1 class="page-header">購入フォーム</h1>
+<form class="form-horizontal">
+
+  <div class="form-group">
+    <label class="col-sm-3 control-label" for="name1">お届け先氏名</label>
+    <div class="col-sm-9">
+      <input type="text" class="form-control" id="name1">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-sm-3 control-label" for="add1">お届け先住所</label>
+    <div class="col-sm-9">
+      <input type="text" class="form-control" id="add1">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-sm-3 control-label">オプション</label>
+    <div class="col-sm-9">
+      <div class="checkbox"><label><input type="checkbox">ギフト包装</label></div>
+      <div class="checkbox"><label><input type="checkbox">配送日指定</label></div>
+      <div class="checkbox disabled"><label><input type="checkbox" disabled>メール便</label></div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-sm-3 control-label">色の選択</label>
+    <div class="col-sm-9">
+      <label class="radio-inline"><input type="radio" name="iro">赤</label>
+      <label class="radio-inline"><input type="radio" name="iro">青</label>
+      <label class="radio-inline"><input type="radio" name="iro">緑</label>
+      <label class="radio-inline disabled"><input type="radio" name="iro" disabled>白</label>
+    </div>
+  </div>
+
+  <hr>
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button class="btn btn-default">戻る</button>
+      <button class="btn btn-primary">次へ</button>
+    </div>
+  </div>
+
+</form>
+
+</div>        <!-- 全体を囲むコンテナ -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

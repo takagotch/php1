@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>リストグループの作成</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<div class="container">        <!-- 全体を囲むコンテナ -->
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button class="navbar-toggle" data-toggle="collapse" data-target="#mainNav">
+        <span class="sr-only">ナビゲーション</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="#" class="navbar-brand">boot dining</a>
+    </div>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="nav navbar-nav">
+        <li><a href="#"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-cutlery"></span> Food</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-glass"></span> Drink</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">アクセス</a></li>
+        <li><a href="#">予約</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron"
+     style="color:#FFF; text-shadow: 2px 2px 4px #666; 
+            height:230px; background:url(photo/rest.jpg); background-size:cover;">
+  <span class="h2">boot dining</span>
+  <p style="font-size:16px">Happy people make happy food.</p>
+</div>
+
+<ol class="breadcrumb">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">アクセス</a></li>
+  <li class="active">店舗一覧</li>
+</ol>
+
+<h1 class="page-header">店舗一覧</h1>
+<p><b>boot dining</b> の系列店は都内に４店舗あります。<b>boot bar</b> となる恵比寿店は深夜３時まで営業。夜11時までは渋谷店と同じ食事メニューを提供しています。近日中に青山店が新規オープンする予定です。</p>
+<!-- PC用 -->
+<ul class="hidden-xs">
+  <li><a href="#">代々木店</a>            <p>渋谷区代々木0-0-0　△△ビル１階</p></li>
+  <li><a href="#">高田馬場店</a>          <p>新宿区高田馬場0-0-0　☆☆ビル２階</p></li>
+  <li><b>渋谷店</b>                       <p>渋谷区渋谷0-0-0　△△ビル１階</p></li>
+  <li><a href="#">恵比寿店（boot bar）</a><p>渋谷区恵比寿0-0-0　☆☆１階</p></li>
+  <li>青山店（近日オープン）              <p>港区北青山0-0-0　△△ビル３階</p></li>
+</ul>
+<!-- スマホ用 -->
+<div class="list-group visible-xs">
+  <a href="#" class="list-group-item">
+    <h5 class="list-group-item-heading"><b>代々木店</b></h5>
+    <p class="list-group-item-text">渋谷区代々木0-0-0　△△ビル１階</p>
+  </a>
+  <a href="#" class="list-group-item">
+    <h5 class="list-group-item-heading"><b>高田馬場店</b></h5>
+    <p class="list-group-item-text">新宿区高田馬場0-0-0　☆☆ビル２階</p>
+  </a>
+  <span class="list-group-item active">
+    <h5 class="list-group-item-heading"><b>渋谷店</b></h5>
+    <p class="list-group-item-text">渋谷区渋谷0-0-0　△△ビル１階</p>
+  </span>
+  <a href="#" class="list-group-item">
+    <h5 class="list-group-item-heading"><b>恵比寿店（boot bar）</b></h5>
+    <p class="list-group-item-text">渋谷区恵比寿0-0-0　☆☆１階</p>
+  </a>
+  <span class="list-group-item disabled">
+    <h5 class="list-group-item-heading"><b>青山店</b>（近日オープン）</h5>
+    <p class="list-group-item-text">港区北青山0-0-0　△△ビル３階</p>
+  </span>
+</div>
+
+</div>        <!-- 全体を囲むコンテナ -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

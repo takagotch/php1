@@ -1,0 +1,131 @@
+■フォームのHTML
+
+<table>
+<tr>
+<th>貴社名<span class="require">※必須</span></th>
+<td></td>
+</tr>
+<tr>
+<th>お名前<span class="require">※必須</span></th>
+<td></td>
+</tr>
+<tr>
+<th>メールアドレス<span class="require">※必須</span></th>
+<td></td>
+</tr>
+<tr>
+<th>お電話番号</th>
+<td></td>
+</tr>
+<tr>
+<th>お問い合わせ内容<span class="require">※必須</span></th>
+<td></td>
+</tr>
+</table>
+
+
+
+■フォームのHTML（「Contact Form 7」のコードを含む）
+
+<table>
+<tr>
+<th>貴社名<span class="require">※必須</span></th>
+<td>[text* company 60/ class:length-l class:text]</td>
+</tr>
+<tr>
+<th>お名前<span class="require">※必須</span></th>
+<td>[text* your_name 40/ class:length-m class:text]</td>
+</tr>
+<tr>
+<th>メールアドレス<span class="require">※必須</span></th>
+<td>[email* email 60/ class:length-l class:text]</td>
+</tr>
+<tr>
+<th>お電話番号</th>
+<td>[tel tel 40/ class:length-m class:text]</td>
+</tr>
+<tr>
+<th>お問い合わせ内容<span class="require">※必須</span></th>
+<td>[textarea* content 60x7 class:length-l class:text]</td>
+</tr>
+</table>
+[submit class:submit "上記内容で送信する"]
+
+
+
+■サイト管理者へ送信される通知メール
+
+●宛先等
+
+宛先
+****@*******（※通知させたいメールアドレス）
+
+
+差出人
+[your_name] <[email]>
+
+
+件名
+お問い合わせがありました。
+
+
+
+●メッセージ本文
+
+お問い合わせ担当各位
+
+[your_name]様よりお問い合わせをいただきました。ご
+対応をよろしくお願いいたします。
+
+▼お問い合わせ内容▼▼▼▼▼▼▼▼▼▼▼▼▼
+
+会社名　　　　　　：[company]
+お名前　　　　　　：[your_name]
+メールアドレス　　：[email]
+お電話番号　　　　：[tel]
+お問い合わせ内容　：[content]
+
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+
+以上
+
+
+
+■問い合わせした方へ送信される確認メール
+
+●宛先等
+
+宛先
+[email]
+
+
+差出人
+パシフィックモール開発株式会社 <pacific@example.com>
+
+
+件名
+お問い合わせありがとうございます。
+
+
+
+●メッセージ本文
+
+[company]　[your_name]様
+
+このたびはパシフィックモール開発株式会社へ
+お問い合わせいただきまして、誠にありがとうございます。
+
+お問い合わせの内容につきましては、
+1営業日以内に担当者よりご連絡をさしあげます。
+
+まことに恐縮ではございますが、
+今しばらくお待ち下さいますようお願い申し上げます。
+
+
+パシフィックモール開発株式会社は皆様のお役に立てる商業施設の開発・運営をめざし真摯に努力してまいります。今後も益々のご愛顧をたまわりますよう、何卒よろしくお願い申し上げます。
+
+-----------------------------------------------------------------------------
+　パシフィックモール開発株式会社
+　【お問い合わせ専用ダイヤル】 03-0000-0000　
+※受付時間 8:45～18:00（月～金・祝）
+-----------------------------------------------------------------------------

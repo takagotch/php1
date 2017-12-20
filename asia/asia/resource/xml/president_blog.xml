@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>ジャカルタで働く社長のブログ</title>
+	<link>http://wpbk2.prime-strategy.co.jp/blog</link>
+	<description>このブログはサンプルサイトです</description>
+	<pubDate>Tue, 13 Aug 2013 03:56:31 +0000</pubDate>
+	<language>ja</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://wpbk2.prime-strategy.co.jp/blog</wp:base_site_url>
+	<wp:base_blog_url>http://wpbk2.prime-strategy.co.jp/blog</wp:base_blog_url>
+
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>pacific</wp:author_login><wp:author_email>example@example.com</wp:author_email><wp:author_display_name><![CDATA[海原 大洋]]></wp:author_display_name><wp:author_first_name><![CDATA[大洋]]></wp:author_first_name><wp:author_last_name><![CDATA[海原]]></wp:author_last_name></wp:author>
+
+	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>%e6%9c%aa%e5%88%86%e9%a1%9e</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[未分類]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename>blog</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[紀行]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename>inspection</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[視察記録]]></wp:cat_name></wp:category>
+	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%8a%e3%83%93</wp:term_slug><wp:term_name><![CDATA[グローバルナビ]]></wp:term_name></wp:term>
+
+	<generator>http://wordpress.org/?v=3.6</generator>
+
+	<item>
+		<title>br2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/bari/br2/</link>
+		<pubDate>Thu, 27 Jun 2013 13:10:06 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br221.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2651</wp:post_id>
+		<wp:post_date>2013-06-27 22:10:06</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:10:06</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>br2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2631</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br221.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/br221.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/br221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"br221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"br221-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"br221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>unabara</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/profile/unabara/</link>
+		<pubDate>Thu, 27 Jun 2013 12:04:07 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/unabara21.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2101</wp:post_id>
+		<wp:post_date>2013-06-27 21:04:07</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:04:07</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>unabara</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2091</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/unabara21.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/unabara21.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:507;s:4:"file";s:21:"2013/06/unabara21.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"unabara21-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"unabara21-300x251.jpg";s:5:"width";i:300;s:6:"height";i:251;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"unabara21-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:6.29999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:24:"Canon EOS Kiss Digital N";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1344869944;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"71";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hk1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/02/hongkong/hk1/</link>
+		<pubDate>Thu, 27 Jun 2013 12:36:54 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk121.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2311</wp:post_id>
+		<wp:post_date>2013-06-27 21:36:54</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:36:54</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hk1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2261</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk121.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/hk121.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:805;s:4:"file";s:17:"2013/06/hk121.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"hk121-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"hk121-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"hk121-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.399999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"iPhone 5";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1367669893;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.13";s:3:"iso";s:2:"50";s:13:"shutter_speed";s:18:"0.0012180267965895";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hk2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/02/hongkong/hk2/</link>
+		<pubDate>Thu, 27 Jun 2013 12:37:24 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk221.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2321</wp:post_id>
+		<wp:post_date>2013-06-27 21:37:24</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:37:24</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hk2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2261</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk221.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/hk221.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/hk221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"hk221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"hk221-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"hk221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.399999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"iPhone 5";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1367832943;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.13";s:3:"iso";s:2:"50";s:13:"shutter_speed";s:18:"0.0018832391713748";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hk3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/02/hongkong/hk3/</link>
+		<pubDate>Thu, 27 Jun 2013 12:37:47 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2331</wp:post_id>
+		<wp:post_date>2013-06-27 21:37:47</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:37:47</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hk3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2261</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk321.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/hk321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:805;s:4:"file";s:17:"2013/06/hk321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"hk321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"hk321-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"hk321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.399999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"iPhone 5";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1367686412;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.13";s:3:"iso";s:2:"80";s:13:"shutter_speed";s:4:"0.05";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hi1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/03/hanoi/hi1/</link>
+		<pubDate>Thu, 27 Jun 2013 12:44:55 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi121.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2361</wp:post_id>
+		<wp:post_date>2013-06-27 21:44:55</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:44:55</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hi1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2351</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi121.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/hi121.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:400;s:4:"file";s:17:"2013/06/hi121.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"hi121-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"hi121-300x198.jpg";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"hi121-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:6.29999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D5100";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1370713919;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"20";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hi2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/03/hanoi/hi2/</link>
+		<pubDate>Thu, 27 Jun 2013 12:45:51 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi221.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2371</wp:post_id>
+		<wp:post_date>2013-06-27 21:45:51</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:45:51</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hi2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2351</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi221.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/hi221.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:400;s:4:"file";s:17:"2013/06/hi221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"hi221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"hi221-300x198.jpg";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"hi221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5;s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D5100";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1370702173;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"34";s:3:"iso";s:3:"450";s:13:"shutter_speed";s:17:"0.016666666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hi3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/03/hanoi/hi3/</link>
+		<pubDate>Thu, 27 Jun 2013 12:46:08 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2381</wp:post_id>
+		<wp:post_date>2013-06-27 21:46:08</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:46:08</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hi3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2351</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi321.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/hi321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:400;s:4:"file";s:17:"2013/06/hi321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"hi321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"hi321-300x198.jpg";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"hi321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4.5;s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D5100";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1370699916;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"30";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:4:"0.01";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cb3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/04/cebu/cb3/</link>
+		<pubDate>Thu, 27 Jun 2013 13:02:18 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb321.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2611</wp:post_id>
+		<wp:post_date>2013-06-27 22:02:18</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:02:18</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cb3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2531</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb321.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/cb321.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:402;s:4:"file";s:17:"2013/06/cb321.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"cb321-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"cb321-300x199.png";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"cb321-604x270.png";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>br1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/bari/br1/</link>
+		<pubDate>Thu, 27 Jun 2013 13:09:05 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br131.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2641</wp:post_id>
+		<wp:post_date>2013-06-27 22:09:05</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:09:05</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>br1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2631</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br131.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/br131.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:401;s:4:"file";s:17:"2013/06/br131.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"br131-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"br131-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"br131-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:6:"NEX-C3";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1358809233;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"18";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:9:"0.0003125";s:5:"title";s:8:"SONY DSC";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>mg1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/01/mongolia/mg1/</link>
+		<pubDate>Thu, 27 Jun 2013 12:49:33 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/mg121.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2421</wp:post_id>
+		<wp:post_date>2013-06-27 21:49:33</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:49:33</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>mg1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2411</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/mg121.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/mg121.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:350;s:4:"file";s:17:"2013/06/mg121.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"mg121-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"mg121-300x173.jpg";s:5:"width";i:300;s:6:"height";i:173;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"mg121-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>mg3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/01/mongolia/mg3/</link>
+		<pubDate>Thu, 27 Jun 2013 12:50:06 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/mg321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2441</wp:post_id>
+		<wp:post_date>2013-06-27 21:50:06</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:50:06</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>mg3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2411</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/mg321.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/mg321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:350;s:4:"file";s:17:"2013/06/mg321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"mg321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"mg321-300x173.jpg";s:5:"width";i:300;s:6:"height";i:173;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"mg321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>shiodome</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/04/shiodome/shiodome/</link>
+		<pubDate>Thu, 27 Jun 2013 12:55:58 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/shiodome21.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2511</wp:post_id>
+		<wp:post_date>2013-06-27 21:55:58</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 12:55:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>shiodome</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2501</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/shiodome21.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/shiodome21.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:22:"2013/06/shiodome21.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"shiodome21-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"shiodome21-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:22:"shiodome21-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cb1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/04/cebu/cb1/</link>
+		<pubDate>Thu, 27 Jun 2013 13:01:40 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb121.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2581</wp:post_id>
+		<wp:post_date>2013-06-27 22:01:40</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:01:40</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cb1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2531</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb121.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/cb121.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:403;s:4:"file";s:17:"2013/06/cb121.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"cb121-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"cb121-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"cb121-604x270.png";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cb2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/04/cebu/cb2/</link>
+		<pubDate>Thu, 27 Jun 2013 13:02:02 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb221.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2591</wp:post_id>
+		<wp:post_date>2013-06-27 22:02:02</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:02:02</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cb2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2531</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb221.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/cb221.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:403;s:4:"file";s:17:"2013/06/cb221.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"cb221-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"cb221-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"cb221-604x270.png";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>br3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/bari/br3/</link>
+		<pubDate>Thu, 27 Jun 2013 13:10:28 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2661</wp:post_id>
+		<wp:post_date>2013-06-27 22:10:28</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:10:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>br3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2631</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br321.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/br321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/br321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"br321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"br321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"br321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>si1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/singapore/si1/</link>
+		<pubDate>Thu, 27 Jun 2013 13:13:22 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si121.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2701</wp:post_id>
+		<wp:post_date>2013-06-27 22:13:22</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:13:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>si1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2691</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si121.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/si121.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/si121.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"si121-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"si121-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"si121-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.399999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"iPhone 5";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1358760381;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.13";s:3:"iso";s:2:"50";s:13:"shutter_speed";s:19:"0.00058997050147493";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>si2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/singapore/si2/</link>
+		<pubDate>Thu, 27 Jun 2013 13:14:22 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si221.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2711</wp:post_id>
+		<wp:post_date>2013-06-27 22:14:22</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:14:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>si2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2691</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si221.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/si221.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:735;s:4:"file";s:17:"2013/06/si221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"si221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"si221-246x300.jpg";s:5:"width";i:246;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"si221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>si3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/singapore/si3/</link>
+		<pubDate>Thu, 27 Jun 2013 13:14:42 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[キャプション4]]></excerpt:encoded>
+		<wp:post_id>2721</wp:post_id>
+		<wp:post_date>2013-06-27 22:14:42</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:14:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>si3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2691</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si321.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/si321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/si321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"si321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"si321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"si321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>sp1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/saipan/sp1/</link>
+		<pubDate>Thu, 27 Jun 2013 13:17:22 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp121.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[キャプション3]]></excerpt:encoded>
+		<wp:post_id>2761</wp:post_id>
+		<wp:post_date>2013-06-27 22:17:22</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:17:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sp1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2741</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp121.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/sp121.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:403;s:4:"file";s:17:"2013/06/sp121.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"sp121-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"sp121-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"sp121-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 40D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1367429739;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"17";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:17:"0.033333333333333";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>プロフィール</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/profile/</link>
+		<pubDate>Tue, 04 Jun 2013 15:00:32 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?page_id=2091</guid>
+		<description></description>
+		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-2101" alt="unabara" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/unabara21.jpg" width="604" height="507" />
+
+<strong>氏名</strong>
+海原大洋（うなばら たいよう）
+
+<strong>生年月日</strong>
+１９７１年３月３０日
+
+<strong>経歴</strong>
+１９９３年早稲田大学法学部卒業、大手証券会社を経て、１９９５年に旅行の企画販売、情報サイト運営をするアジアパシフィック旅行社を設立。２０００年には商業施設の開発、運営事業を手掛けるパシフィックモール開発を設立。
+
+日本とジャカルタを中心に事業展開し、現在ではシンガポール、バンコク、ホノルル、サンフランシスコ、クアラルンプールにも事業拠点を設け、アジア太平洋地域の発展に従事しています。
+
+<strong>座右の銘</strong>
+七転八起
+
+<strong>趣味</strong>
+最近は仕事が楽しくてしょうがないです。
+
+<strong>得意なスポーツ</strong>
+弓道（学生時代はインターハイに出場しました）
+
+<strong>好きな食べ物</strong>
+ステーキ
+
+<strong>よく見るサイト</strong>
+「神田ランチ調査隊」　<a style="line-height: 1.5;" href="http://kandalunch.net/" target="_blank">kandalunch.net</a>
+
+&nbsp;
+
+<strong>影響を受けた本</strong>
+<a href="http://www.amazon.co.jp/gp/product/4062153920/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4062153920&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" style="margin-left: 0;" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4062153920&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4062153920" width="1" height="1" border="0" />
+マルコムグラッドウェル「天才 成功する人々の法則」
+
+どんな技能も１万時間費やせば、プロの基準になる「１万時間の法則」、持つ者はさらに豊かになり持たざる者は持っているものを取り上げられる「マタイ効果」など、事業が苦しかった時に読み、ヒントになった大切な書籍です。
+
+&nbsp;
+
+<strong>好きな映画</strong>
+<a href="http://www.amazon.co.jp/gp/product/B008UQEM3M/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=B008UQEM3M&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" style="margin-left: 0;" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=B008UQEM3M&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=B008UQEM3M" width="1" height="1" border="0" />
+ソウルサーファー
+
+１３才の女性がサーフィンの練習中にサメに襲われ、左腕を奪われる悲惨な事故に遭遇してしまうが、なんとサーフィンをあきらめず大会に出場し、困難を乗り越えていく感動の実話。何があってもあきらめない強靭な精神力はとても刺激を受けました。
+
+&nbsp;
+
+&nbsp;
+
+このブログで登場する人物及び情報は架空の設定としております。
+実際の内容と異なることもございますので予めご了承ください。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2091</wp:post_id>
+		<wp:post_date>2013-06-05 00:00:32</wp:post_date>
+		<wp:post_date_gmt>2013-06-04 15:00:32</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>profile</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>おすすめ書籍</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/books/</link>
+		<pubDate>Tue, 04 Jun 2013 15:00:12 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?page_id=2181</guid>
+		<description></description>
+		<content:encoded><![CDATA[&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/479736758X/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=479736758X&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=479736758X&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=479736758X" width="1" height="1" border="0" />WordPress関連書籍では、最も売れているという本。初心者から中級者まで、WordPressを学ぶのに、必要な知識が書かれています。実際にパシフィックモール開発株式会社という架空会社のサイトを作りながら学べます。このサイトの完成度は非常に高いです。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/4774150282/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4774150282&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4774150282&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4774150282" width="1" height="1" border="0" />概要編、準備編、管理編、知識編、作成編、完成編、飛躍編とパート毎に解説付きでわかりやすく書かれています。全ページカラーで絵も多く挿入されており、楽しみながらCafeMiraggioという架空のお店のサイトを作りWordPressの全体を学べます。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/4844363298/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4844363298&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4844363298&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4844363298" width="1" height="1" border="0" />WordPressが人気な理由の一つにプラグインが豊富なことにありますが、その中でも業界のプロがおすすめするプラグインが解説されています。一度読んでみると、こんなプラグインがあったんだ！と新たな発見があるかもしれません。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/4798126128/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4798126128&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4798126128&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4798126128" width="1" height="1" border="0" />プラグインだけでなく、WebAPIを使って、WordPressを使いこなすための本です。初心者目線で書かれていますが、WebAPIは中級者クラスでも読み応えのある内容です。WordPressでのサイト制作の幅を広げたい人におすすめです。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/479812950X/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=479812950X&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=479812950X&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=479812950X" width="1" height="1" border="0" />WordPressを使ってECサイトをはじめたい人は、絶対に読んだ方がイイ本です。WordPressにECサイトの機能を実装するプラグインで、ショップサイトの事例を紹介しながら設定をしていきます。WordPressの基礎は他の本で学ぶ必要がありますが、そのあとにこの本を読めば、設定方法も丁寧に解説してあるので、ECサイトがあっという間に作れてしまいます。
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/4797369469/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4797369469&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4797369469&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4797369469" width="1" height="1" border="0" />WEBデザインレシピという初心者にわかりやすいサイトを運営している方のWordPress本で、初心者から中級者まで、読みごたえのある本です。PHPの基礎についても丁寧に解説してくれています。HTMLとCSSは修得済の方向けに書かれています。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/4844334166/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4844334166&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4844334166&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.jp/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4844334166" width="1" height="1" border="0" />テクニックではなく、人気ブログの作り方を解説した内容。プロブロガーとしての成功事例をふんだんに織り交ぜながら、集客や収益に結び付けるまでのプロセスを体系的に学べるので、WordPressを習得したら読みたい本。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://www.amazon.co.jp/gp/product/4774158569/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4774158569&amp;linkCode=as2&amp;tag=yfujimoto0721-22"><img class="alignleft" alt="" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=4774158569&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=yfujimoto0721-22" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-jp.amazon-adsystem.com/e/ir?t=yfujimoto0721-22&amp;l=as2&amp;o=9&amp;a=4774158569" width="1" height="1" border="0" />Webデザインのプロを目指す方に、Photoshop、Illustratorを使った制作テクニックを解説します。本書は、Photoshopでいかに美しく、かつ制作効率を上げてWebデザインを作るかを重視した解説、実際に手を動かしながらの演習というスタイルを採っています。バナー制作による演習を経てから、Webサイトのデザインカンプ制作にステップアップ。制作物を実際にWebで表示できるよう、HTML/CSSコーディングの初歩まで学習できます。
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2181</wp:post_id>
+		<wp:post_date>2013-06-05 00:00:12</wp:post_date>
+		<wp:post_date_gmt>2013-06-04 15:00:12</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>books</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>香港視察</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/02/hongkong/</link>
+		<pubDate>Sun, 24 Feb 2013 01:00:17 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2261</guid>
+		<description></description>
+		<content:encoded><![CDATA[今回は、香港の現地スタッフの笹井と尖沙咀エリアの商業施設の視察してきました。
+
+<img class="alignnone size-full wp-image-2311" alt="hk1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk121.jpg" width="604" height="805" />
+天候が悪く、せっかくの景色がキレイに見れなくて残念がっていましたが、笹井いわく、大気汚染の影響らしいです。ちょっと残念でした。
+
+香港に来たのは５年ぶりで、新しいビルがかなり増えた気がします。でも路地裏には香港らしい懐かしさにも触れることができました。
+
+実は、私が学生時代に、映画監督に憧れた時期があって、香港映画を熱心に研究した時代があったんです。
+
+それなので、この場所には、映画スターの手形があったりと、わたしにはたまらない場所でもあるんです。
+
+<img class="alignnone size-full wp-image-2321" alt="hk2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk221.jpg" width="604" height="453" />
+
+あの当時のわたしは、自分の作品を世界中の人に見てもらいたいという強い気持ちを持っていましたが、それは形が変わり、いまの事業につながっているように思います。
+
+さて、話が変わりますが、香港の隣のマカオには有数のカジノがあります。マカオのカジノはラスベガスよりも大きいようですね。
+
+<img class="alignnone size-full wp-image-2331" alt="hk3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hk321.jpg" width="604" height="805" />
+
+日本にもカジノができる時代がくるんでしょうか？カジノが合法化されているのは１３０か国以上で先進国のほとんどが合法化されているようです。逆にカジノを禁止している国は７０か国以上で、ほとんどが発展途上国のようです。
+
+カジノがあれば、外国人観光客を日本に誘致できるという意見もあるようなんですが、どうなんでしょうか？]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2261</wp:post_id>
+		<wp:post_date>2013-02-24 10:00:17</wp:post_date>
+		<wp:post_date_gmt>2013-02-24 01:00:17</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hongkong</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="inspection"><![CDATA[視察記録]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ハノイ視察</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/03/hanoi/</link>
+		<pubDate>Sat, 09 Mar 2013 01:00:31 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2351</guid>
+		<description></description>
+		<content:encoded><![CDATA[今回のベトナム視察は、ハノイで旅行会社をされているグエン社長と同行し、現地のツアー視察を視察してきました。
+
+<img class="alignnone size-full wp-image-2361" alt="hi1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi121.jpg" width="604" height="400" />
+まずグエン社長に出迎えていただき車に乗らせていただきましたが、ベトナムはバイク社会で、バイクの多さにビックリしました。
+
+グエン社長いわく、クルマを持っているのは１％～２％とのことで、首都ハノイでもクルマはまだまだ普及は先であろうと言っていました。
+
+ただインフラ整備も進んでいるようなので、遠くない未来には、ベトナムでも日本の高級車が走る時代がきっと来る！とグエン社長が語ってくれたのが印象的でした。
+
+そんな話をしながらクルマを走らせること１時間、目的地であるホアンキエム湖に到着しました。のどかな風景が広がり、気持ちが良かったです。
+
+<img class="alignnone size-full wp-image-2371" alt="hi2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi221.jpg" width="604" height="400" />
+
+そんな中で食べられるフルーツは、日本では見かける機会が少ないフルーツで、言い表せないぐらい甘くておいしいモノでした。
+
+またグエン社長は、得意げにこんなものも見せてくれました。
+
+<img class="alignnone size-full wp-image-2381" alt="hi3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/hi321.jpg" width="604" height="400" />
+
+素手で危ないんじゃないかと私は距離を置いてしまいました。
+この蜂蜜は日本で食べるよりもフルーティーな気がしました。
+
+ハノイは自然も豊かで、フルーツがおいしいステキな場所でした。
+もちろんハノイ料理もとてもおいしかったです。
+
+ぜひ皆さんもハノイに行かれてみてはいかがでしょうか？]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2351</wp:post_id>
+		<wp:post_date>2013-03-09 10:00:31</wp:post_date>
+		<wp:post_date_gmt>2013-03-09 01:00:31</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hanoi</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="inspection"><![CDATA[視察記録]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>モンゴル視察</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/01/mongolia/</link>
+		<pubDate>Thu, 17 Jan 2013 01:00:20 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2411</guid>
+		<description></description>
+		<content:encoded><![CDATA[ツアー拡充の要望が多いので、モンゴルのツアーパッケージを作るために、モンゴルに視察してきました。
+
+<img class="alignnone size-full wp-image-2421" alt="mg1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/mg121.jpg" width="604" height="350" />
+今回の視察には、中国のIT会社社長の王さんが同行してくださいました。王さんはIT会社を立ち上げたばかりですが、既に従業員が１００名を超える会社にまで成長させている若き優秀な経営者で、わたしも非常に刺激をもらっています。
+
+そんな王さんとモンゴルに３日間の視察をしてきましたが、モンゴルではゲルと呼ばれるテントに寝泊まりしました。
+
+郷に入れば、郷に従え。旅はまさしくそういう文化を楽しむものですね。
+
+今回もいろいろな発見がありました。
+
+<img class="alignnone size-full wp-image-3611" alt="mg2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/01/mg21.png" width="604" height="403" />
+
+オボーと呼ばれる石が積まれている山。道中の安全祈願のために、このオボーを時計回りに３周して、石を積み重ねる習慣があるそうです。
+
+さらに、王さんからいろいろ教えてもらったのですが、モンゴルは親日家の方が多く、日本語を勉強している学生が非常に多いとのことでした。
+
+<img class="alignnone size-full wp-image-2441" alt="mg3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/mg321.jpg" width="604" height="350" />
+
+経済成長が著しいモンゴルで、これからさらに観光客は増えるであろうと言われているようです。弊社も皆様が安全で安心してモンゴルに来られるようなパッケージを作りたいと思います。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2411</wp:post_id>
+		<wp:post_date>2013-01-17 10:00:20</wp:post_date>
+		<wp:post_date_gmt>2013-01-17 01:00:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>mongolia</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="inspection"><![CDATA[視察記録]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>私どもの原点　汐留モール</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/04/shiodome/</link>
+		<pubDate>Wed, 10 Apr 2013 01:00:45 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2501</guid>
+		<description></description>
+		<content:encoded><![CDATA[汐留モールはパシフィックモール開発が、２００１年東京の港区に最初に開発した施設で、いわば我々にとって原点です。
+
+<img class="alignnone size-full wp-image-2511" alt="shiodome" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/shiodome21.jpg" width="604" height="453" />（写真は当時建設中の汐留モール）
+
+地上24階・地下2階という巨大なビルは、１０年以上たった現在、日本国内はもちろん、世界でも有数の商業施設に発展することができました。
+
+わたしは汐留にくるといつも星野建設の西川社長と交わした会話を思い出します。この汐留モールは、建設中、開業後、幾多の困難がありました。
+
+でも取引先や支援者の皆様のおかげで、乗り越えられたことは、感謝してもしきれません。特に西川社長にはご尽力いただきました。
+
+あの時、西川社長に「海原社長、我々は大きな商業施設をつくることがミッションではなく、この商業施設を訪れるであろう全ての人のワクワクをつくるのがミッションではありませんか？人生かけてこのプロジェクトを成功させましょう」という会話は、一生忘れられません。
+
+幾多の困難がありましたが、なんとか乗り越えてきたことが自信となり、その後ジャカルタやシンガポール、バンコクと、開発や運営をさせていただくことができ、事業を急拡大することができました。
+
+それも、あの時が原点になっているような気がします。
+
+汐留モールはサマーセールの時期になってきて、大勢のお客様で賑わっています。ぜひお近くにいらした際は、ご来場いただければと思います。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2501</wp:post_id>
+		<wp:post_date>2013-04-10 10:00:45</wp:post_date>
+		<wp:post_date_gmt>2013-04-10 01:00:45</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>shiodome</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="blog"><![CDATA[紀行]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>sp2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/saipan/sp2/</link>
+		<pubDate>Thu, 27 Jun 2013 13:17:43 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp221.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[キャプション2]]></excerpt:encoded>
+		<wp:post_id>2771</wp:post_id>
+		<wp:post_date>2013-06-27 22:17:43</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:17:43</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sp2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2741</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp221.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/sp221.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:403;s:4:"file";s:17:"2013/06/sp221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"sp221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"sp221-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"sp221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 40D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1367582493;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"17";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:9:"0.0003125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>sp3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/saipan/sp3/</link>
+		<pubDate>Thu, 27 Jun 2013 13:17:57 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp331.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[キャプション1]]></excerpt:encoded>
+		<wp:post_id>2781</wp:post_id>
+		<wp:post_date>2013-06-27 22:17:57</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:17:57</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sp3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2741</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp331.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/sp331.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:379;s:4:"file";s:17:"2013/06/sp331.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"sp331-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"sp331-300x188.jpg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"sp331-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.899999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:6:"TG-820";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1367578807;s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"5";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:22:"OLYMPUS DIGITAL CAMERA";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>bk1</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/bangkok/bk1/</link>
+		<pubDate>Thu, 27 Jun 2013 13:20:29 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk121.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2821</wp:post_id>
+		<wp:post_date>2013-06-27 22:20:29</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:20:29</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bk1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2811</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk121.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/bk121.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:451;s:4:"file";s:17:"2013/06/bk121.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"bk121-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"bk121-300x224.jpg";s:5:"width";i:300;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"bk121-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.399999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:4:"iPad";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1336989670;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.28";s:3:"iso";s:2:"80";s:13:"shutter_speed";s:19:"0.00062814070351759";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>bk2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/bangkok/bk2/</link>
+		<pubDate>Thu, 27 Jun 2013 13:20:45 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk221.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2831</wp:post_id>
+		<wp:post_date>2013-06-27 22:20:45</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:20:45</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bk2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2811</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk221.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/bk221.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/bk221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"bk221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"bk221-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"bk221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:6:"DSC-T1";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1220656042;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.7";s:3:"iso";s:3:"120";s:13:"shutter_speed";s:5:"0.125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>bk3</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/bangkok/bk3/</link>
+		<pubDate>Thu, 27 Jun 2013 13:21:17 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk321.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2841</wp:post_id>
+		<wp:post_date>2013-06-27 22:21:17</wp:post_date>
+		<wp:post_date_gmt>2013-06-27 13:21:17</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bk3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2811</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk321.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/bk321.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:453;s:4:"file";s:17:"2013/06/bk321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"bk321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"bk321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:17:"bk321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:6:"DSC-T1";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1220559876;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:3:"0.1";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>head.png</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/?attachment_id=3141</link>
+		<pubDate>Fri, 28 Jun 2013 02:47:50 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/head21.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/head21.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3141</wp:post_id>
+		<wp:post_date>2013-06-28 11:47:50</wp:post_date>
+		<wp:post_date_gmt>2013-06-28 02:47:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>head-png</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/head21.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/06/head21.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:230;s:4:"file";s:18:"2013/06/head21.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"head21-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"head21-300x43.png";s:5:"width";i:300;s:6:"height";i:43;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:19:"head21-1024x147.png";s:5:"width";i:1024;s:6:"height";i:147;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:18:"head21-604x230.png";s:5:"width";i:604;s:6:"height";i:230;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
+			<wp:meta_value><![CDATA[jakarta]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>banner-apt</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/?attachment_id=3391</link>
+		<pubDate>Mon, 01 Jul 2013 04:21:40 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/07/banner-apt.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3391</wp:post_id>
+		<wp:post_date>2013-07-01 13:21:40</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 04:21:40</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>banner-apt</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/07/banner-apt.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/07/banner-apt1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:260;s:6:"height";i:110;s:4:"file";s:23:"2013/07/banner-apt1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"banner-apt1-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>banner-kandalunch</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/?attachment_id=3401</link>
+		<pubDate>Mon, 01 Jul 2013 04:21:41 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/07/banner-kandalunch.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3401</wp:post_id>
+		<wp:post_date>2013-07-01 13:21:41</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 04:21:41</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>banner-kandalunch</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/07/banner-kandalunch.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/07/banner-kandalunch1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:260;s:6:"height";i:68;s:4:"file";s:30:"2013/07/banner-kandalunch1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"banner-kandalunch1-150x68.png";s:5:"width";i:150;s:6:"height";i:68;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>banner-pmd</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/?attachment_id=3411</link>
+		<pubDate>Mon, 01 Jul 2013 04:21:42 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/07/banner-pmd.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3411</wp:post_id>
+		<wp:post_date>2013-07-01 13:21:42</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 04:21:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>banner-pmd</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/07/banner-pmd.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/07/banner-pmd1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:260;s:6:"height";i:110;s:4:"file";s:23:"2013/07/banner-pmd1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"banner-pmd1-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/08/3412/</link>
+		<pubDate>Mon, 12 Aug 2013 09:24:50 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/2013/08/3412/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3412</wp:post_id>
+		<wp:post_date>2013-08-12 18:24:50</wp:post_date>
+		<wp:post_date_gmt>2013-08-12 09:24:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>3412</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%8a%e3%83%93"><![CDATA[グローバルナビ]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[2181]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/08/3413/</link>
+		<pubDate>Mon, 12 Aug 2013 09:24:50 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/2013/08/3413/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3413</wp:post_id>
+		<wp:post_date>2013-08-12 18:24:50</wp:post_date>
+		<wp:post_date_gmt>2013-08-12 09:24:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>3413</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%8a%e3%83%93"><![CDATA[グローバルナビ]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[2091]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/08/3414/</link>
+		<pubDate>Mon, 12 Aug 2013 09:24:50 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/2013/08/3414/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3414</wp:post_id>
+		<wp:post_date>2013-08-12 18:24:50</wp:post_date>
+		<wp:post_date_gmt>2013-08-12 09:24:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>3414</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%8a%e3%83%93"><![CDATA[グローバルナビ]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/08/3415/</link>
+		<pubDate>Mon, 12 Aug 2013 09:24:50 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/2013/08/3415/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3415</wp:post_id>
+		<wp:post_date>2013-08-12 18:24:50</wp:post_date>
+		<wp:post_date_gmt>2013-08-12 09:24:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>3415</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%8a%e3%83%93"><![CDATA[グローバルナビ]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>mg2</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/01/mongolia/mg2/</link>
+		<pubDate>Thu, 04 Jul 2013 07:19:37 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/01/mg21.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3611</wp:post_id>
+		<wp:post_date>2013-07-04 16:19:37</wp:post_date>
+		<wp:post_date_gmt>2013-07-04 07:19:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>mg2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2411</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/01/mg21.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2013/01/mg21.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:604;s:6:"height";i:403;s:4:"file";s:16:"2013/01/mg21.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:16:"mg21-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:16:"mg21-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:16:"mg21-604x270.png";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>セブ視察</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/04/cebu/</link>
+		<pubDate>Sat, 13 Apr 2013 01:00:19 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2531</guid>
+		<description></description>
+		<content:encoded><![CDATA[今回はフィリピンのセブに視察に行ってきました。
+
+<img class="alignnone size-full wp-image-2581" alt="cb1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb121.png" width="604" height="403" />
+今回の目的は、マリンスポーツのツアーを拡充させるために、現地のコーディネーターとの人脈をつくって、新しいツアーの拡充を早急にするというものでした。
+
+いろいろな人を紹介いただきましたが、私は、侍が大好きというライアンと手を組むことにしました。
+
+彼はまだ若い男ですが、日本並みのサービス精神をもち、いつか日本に行って忍者に会ってみたいという、とても面白い男です。
+
+<img class="alignnone size-full wp-image-2591" alt="cb2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb221.png" width="604" height="403" />
+
+日本人に人気のあるマリンスポーツは、バナナボートとパラセーリングのようで、当日のツアーを見学しましたが、皆さん大変満足されていました。
+
+また料理も、現地のシーフードとフルーツが豊富なので、ぜひ日本人好みのフィリピン料理を作ってほしい！とリクエストしたところ、ライアンは、現地で手配できる業者と交渉してくれて、満足のいくメニューができました。
+
+<img class="alignnone size-full wp-image-2611" alt="cb3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/cb321.png" width="604" height="402" />
+
+こんなに現地のシーフードとフルーツが楽しめて、
+日本語の喋れるコーディネーターがつくツアーができそうなので、
+皆さんに喜んでいただけるのではないかと思っています。
+
+セブのツアーパッケージをぜひご期待ください。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2531</wp:post_id>
+		<wp:post_date>2013-04-13 10:00:19</wp:post_date>
+		<wp:post_date_gmt>2013-04-13 01:00:19</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cebu</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="inspection"><![CDATA[視察記録]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>バリで決意を新たに</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/bari/</link>
+		<pubDate>Mon, 13 May 2013 01:00:03 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2631</guid>
+		<description></description>
+		<content:encoded><![CDATA[ゴールデンウィークは、インドネシアのリゾート地のバリで７日間、休暇を楽しみました。
+
+<img class="alignnone size-full wp-image-2641" alt="SONY DSC" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br131.jpg" width="604" height="401" />
+普段、人と会う機会が多く、忙しくしていましたが、バリではサーフィンを楽しんだり、ボーっと読書をしたりして、心を休ませるのに専念しました。
+
+目をつぶって、波の音を聞きながら、いろいろ考えました。
+
+これまでの弊社の道のりは、楽なものではありませんでした。
+
+創業当時から、誰よりも頑張ってきたつもりでしたが、私の不甲斐なさで仲間との別れや、事業撤退など、悔しいことを何度も経験してきました。
+
+<img class="alignnone size-full wp-image-2651" alt="br2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br221.jpg" width="604" height="453" />
+
+でも同時に、新たな仲間との出会い、新たなチャンスに恵まれ、軌道に乗せられた今、もっともっと創業当時の想いを強く持ち続け、誰よりも頑張っていこうと思います。
+
+弊社は、日本発、アジア圏で「人と人」を繋ぐお手伝いをする企業として、さらに邁進していきます。
+
+<img class="alignnone size-full wp-image-2661" alt="br3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/br321.jpg" width="604" height="453" />
+
+これからもどうぞよろしくお願いいたします。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2631</wp:post_id>
+		<wp:post_date>2013-05-13 10:00:03</wp:post_date>
+		<wp:post_date_gmt>2013-05-13 01:00:03</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bari</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="blog"><![CDATA[紀行]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>シンガポールがなぜ重要な市場なのか？</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/05/singapore/</link>
+		<pubDate>Fri, 24 May 2013 01:00:54 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2691</guid>
+		<description></description>
+		<content:encoded><![CDATA[今回はシンガポールがなぜ重要な市場なのか？について書きたいと思います。
+
+<img class="alignnone size-full wp-image-2701" alt="si1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si121.jpg" width="604" height="453" />
+我々はアジアを中心とした旅行の企画や販売するアジアパシフィック旅行社と
+アジア圏の商業施設の開発や管理などを手掛けるパシフィックモール開発という会社がありますが、共通してアジア圏をマーケットにした事業展開を進めています。
+アジアでビジネス展開する企業にとって、シンガポールは絶好の立地です。
+チャンギ空港は、シンガポールの窓口としてだけではなく、
+アジアのハブとして、流通の中心に存在しています。
+これはアジアでビジネスを展開する企業にとって、シンガポールにまず進出し、
+そこからアジア展開していく理由の一つでもあると私は感じています。
+
+そして法人税についても、シンガポールはアジアの中でも断トツで低いことも重要なポイントです。例えば日本は法人税が約４０％ですが、シンガポールは約１７％だったり、シンガポールに国際統括本部などを設置する企業に対してはさらに優遇税率を適用するなどしています。
+
+<img class="alignnone size-full wp-image-2711" alt="si2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si221.jpg" width="604" height="735" />
+
+これはシンガポールの国土が、東京２３区ぐらいの広さで、経営資源も乏しいことから、積極的に外資企業を誘致して、その企業で働く自国民が恩恵を得られるという戦略のもと、政府が戦略的に進めているもので、結果的に数々の外資系企業の誘致に成功しています。
+
+さらには、ITベンチャー会社に、シンガポール政府から直々にシンガポール進出の打診があったそうですが、その内容に、シンガポールに進出し、現地住民のエンジニアを採用すれば、そのエンジニアの給与を、シンガポール政府が全額負担するといった条件を出しているとのうわさもあります。
+
+<img class="alignnone size-full wp-image-2721" alt="si3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/si321.jpg" width="604" height="453" />
+
+ある情報によれば、６世帯のうち１世帯の割合で、資産が１億円を超えているというデータもあるようで、数年前まで、シンガポールといえば、マーライオンが有名でしたが、ここ数年でマリナーベイと呼ばれるエリアにはカジノや高級ホテルのようなリゾートが展開され、世界中のお金持ちの誘致に成功しているようです。
+
+以上のことからも、アジアで事業展開していく際に、まずはシンガポールで成功できなければ、他のアジアでも成功できないという位置づけになっており、どの企業もシンガポール市場に注目しているのだと私は考えます。
+
+私どもはシンガポールに２００４年に進出し、もうすぐ１０年が経ちますが、これまでの成功ノウハウをパートナー企業と共有しあい、これまで以上の事業展開ができるよう、努力していくつもりです。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2691</wp:post_id>
+		<wp:post_date>2013-05-24 10:00:54</wp:post_date>
+		<wp:post_date_gmt>2013-05-24 01:00:54</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>singapore</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="blog"><![CDATA[紀行]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>サイパン視察</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/saipan/</link>
+		<pubDate>Wed, 26 Jun 2013 01:00:18 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2741</guid>
+		<description></description>
+		<content:encoded><![CDATA[先月末に、ハワイ・グアム担当のサラから連絡があって、ぜひサイパンでダイビングツアーを作ってほしいから、サイパンに視察しに来てください。とのことだったので、今回はサイパンに行ってきました。
+
+<img class="alignnone size-full wp-image-2761" alt="sp1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp121.jpg" width="604" height="403" />
+アジアパシフィック旅行社のハワイとグアムは、人気ツアーなので、ぜひサイパンもパッケージツアーができれば、と思っておりました。
+
+でもサイパンは、私の想像をはるかに超えていました。
+
+<img class="alignnone size-full wp-image-2771" alt="sp2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp221.jpg" width="604" height="403" />
+
+どこまでも広がるエメラルドグリーンの海。
+
+<img class="alignnone size-full wp-image-2781" alt="OLYMPUS DIGITAL CAMERA" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/sp331.jpg" width="604" height="379" />
+
+こんなにキレイな魚が目の前を泳ぐ体験ができるなんて。
+ぜひ皆さんにこのツアーをご紹介できるよう、いま最終調整中です。
+
+できるだけ安いお値段で、このツアーが組めるよういたしますので、ぜひご期待いただければと思います。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2741</wp:post_id>
+		<wp:post_date>2013-06-26 10:00:18</wp:post_date>
+		<wp:post_date_gmt>2013-06-26 01:00:18</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>saipan</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="inspection"><![CDATA[視察記録]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>バンコク視察</title>
+		<link>http://wpbk2.prime-strategy.co.jp/blog/2013/06/bangkok/</link>
+		<pubDate>Sat, 15 Jun 2013 01:00:53 +0000</pubDate>
+		<dc:creator>pacific</dc:creator>
+		<guid isPermaLink="false">http://wpbk2.prime-strategy.co.jp/blog/?p=2811</guid>
+		<description></description>
+		<content:encoded><![CDATA[今回は学生時代からの友達でもある、ソムサック氏が時間を作ってくれたので、バンコクの視察も兼ねながらタイの経済事情を聞いてきました。
+
+<img class="alignnone size-full wp-image-2821" alt="bk1" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk121.jpg" width="604" height="451" />
+タイには有名な寺院がたくさんあり、特にバンコクではお寺巡りツアーがあるほど、見るべき寺院が点在しています。
+
+ソムサック氏は、ボートに乗せてくれたり、キックボクシングを観戦させてくれたり、本当にいろんなところに連れて行ってくれました。
+
+<img class="alignnone size-full wp-image-2831" alt="bk2" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk221.jpg" width="604" height="453" />
+
+スーパーにも立ち寄ってくれたのですが、豚の足がそのまま売られているなんて、日本では考えられませんよね。
+
+<img class="alignnone size-full wp-image-2841" alt="bk3" src="http://wpbk2.prime-strategy.co.jp/blog/wp-content/uploads/2013/06/bk321.jpg" width="604" height="453" />
+
+ソムサック氏とは２０年ぶりでしたが、彼はバンコクでコンビニチェーンをいくつか持っており、立派に成功していました。
+
+学生時代に、「お互い頑張って世界を変えていこう」なんて話をしたのを、ソムサック氏が覚えていたのが、なんだか嬉しかったです。
+
+バンコクでは失業率が１％未満らしいですが、慢性的な人手不足の問題もあって、企業は人材の確保に必死とのことでした。
+
+バンコク中心街のコンビニの時給は日本円にして５０円前後。いまだに日本の１/２０前後ですが、それでもこの数年でかなり上昇しているようです。
+
+グループ会社のパシフィックモール開発株式会社で担当した商業施設のチャオプラヤモールはとても賑わっていました。
+
+まだまだプーケットなどの観光の需要もありそうなので、旅行業も不動産業も力を入れていきたいと思います。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2811</wp:post_id>
+		<wp:post_date>2013-06-15 10:00:53</wp:post_date>
+		<wp:post_date_gmt>2013-06-15 01:00:53</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bangkok</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="inspection"><![CDATA[視察記録]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_format_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_link_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_quote_source_name</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_audio_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_format_video_embed</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_keywords</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>

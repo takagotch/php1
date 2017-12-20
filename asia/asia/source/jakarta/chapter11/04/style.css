@@ -1,0 +1,416 @@
+/*
+Theme Name: Jakarta
+Theme URI: http://www.prime-strategy.co.jp/download/
+Description: 
+Author: Prime Strategy Co.,Ltd.
+Author URI: http://prime-strategy.co.jp/
+Template: twentythirteen
+Version: 1.0
+*/
+
+/* 親テーマのスタイルシートを読み込む */
+@import url("../twentythirteen/style.css");
+
+/* 親テーマで指定されている背景色に対して、background:noneを指定することで打ち消し、無効化します。 */
+#page,
+#content > header,
+#content article,
+#content article .entry-content,
+#content .page-wrapper,
+#content .post-navigation,
+#respond,
+#secondary .widget_calendar a:hover,
+#secondary .widget_calendar tbody td.pad {
+  background: none;
+}
+
+/* グローバルナビゲーションの背景色を青に指定します。 */
+#navbar {
+  background-color: #2785e4;
+}
+
+/* フッター上部の背景色を青に指定します。 */
+#secondary {
+  background-color: #2972df;
+}
+
+/* カレンダー、ページナビの背景色を青に指定します。 */
+#content .paging-navigation .meta-nav,
+#colophon,
+#secondary .widget_calendar tbody td {
+  background-color: #285ed7;
+}
+
+/* グローバルナビゲーション、フッターウィジェットエリアおよびフッターのコピーライトの文字色を白に指定します*/
+#navbar .nav-menu li a,
+#navbar .menu-toggle,
+#colophon,
+#colophon a {
+  color: #fff;
+}
+
+/* 画面幅が643px以下(スマートフォンの表示)のとき、グローバルナビゲーションのカレントアイテムの文字色を濃い青に指定します。 */
+@media (max-width: 643px) {
+  #navbar .nav-menu li.current-menu-item a {
+    color: #123ea1;
+  }
+}
+
+/* PC表示の際、グローバルナビゲーションのカレントアイテムに青色のボーダーが表示されるように指定します。 */
+@media (min-width: 643px) {
+  #navbar .nav-menu li.current-menu-item {
+    background-image: url("./images/blue-border-h-4px.png");
+    background-repeat: repeat-x;
+    background-position: bottom;
+  }
+}
+
+/* 全体の基本文字色をグレーに指定します。 */
+#main,
+#content article .entry-title a {
+  color: #36393E;
+}
+
+/* 記事タイトルに下線をつけます。 */
+#content article .entry-title {
+  border-bottom-color: #36393E;
+}
+#content article .entry-title {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+/* ページナビの背景を透過させます。 */
+#content .paging-navigation {
+  background-color: transparent;
+}
+
+/* ｢コメント承認待ち｣のテキスト色の薄いグレーが背景に埋もれないよう、濃いグレーに変更します。 */
+#comments .comment-awaiting-moderation,
+#commentform .form-allowed-tags,
+#commentform .form-allowed-tags * {
+  color: #6A7079;
+}
+
+/* リンク色やアクセントカラーとして、青色を指定します。 */
+#main a,
+#comments .comment-author .fn,
+#commentform .required {
+  color: #2785e4;
+}
+
+/* グローバルナビゲーションのリンクに、マウスオーバーした際の色を青に指定します。 */
+#navbar .nav-menu li:hover a {
+  background-color: #285ed7;
+}
+
+/* コンテンツ部分のリンクテキストにマウスオーバーした際の文字色を、濃い青色に指定します。 */
+#main a:hover,
+#secondary a:hover {
+  color: #123ea1;
+}
+
+/* コンテンツ部分とウィジェット部分の背景を白に指定します。 */
+#main,
+#tertiary .widget {
+  background-color: #fff;
+}
+
+/* Facebookのウィジェットエリアの背景色を白に指定します。 */
+#tertiary .widget iframe[src^="//www.facebook.com/plugins/likebox.php"] {
+  background-color: #fff;
+}
+
+/* コメントボタンの色を青のグラデーションに設定します。 */
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+  background: #0071bc; /* 古いブラウザ用 */
+  background: -webkit-linear-gradient(top, #0089DC 0%, #00619C 100%); /* Chrome 10+, Safari 5.1+ */
+  background: linear-gradient(to bottom, #0089DC 0%, #00619C 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0089DC', endColorstr='#00619C', GradientType=0); /* IE6-9 */
+  border-bottom-color: #00395C;
+}
+
+/* コメントボタンマウスオーバー時の色を設定します。 */
+button:hover, button:focus,
+input[type="submit"]:hover, input[type="submit"]:focus,
+input[type="button"]:hover, input[type="button"]:focus,
+input[type="reset"]:hover, input[type="reset"]:focus {
+  background: #0089DC; /* 古いブラウザ用 */
+  background: -webkit-linear-gradient(top, #009DFC 0%, #0071bc 100%); /* Chrome 10+, Safari 5.1+ */
+  background: linear-gradient(to bottom, #009DFC 0%, #0071bc 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#009DFC', endColorstr='#0071bc', GradientType=0); /* IE6-9 */
+}
+
+/* コメントボタンクリック時の色を設定します。 */
+button:active,
+input[type="submit"]:active,
+input[type="button"]:active,
+input[type="reset"]:active {
+  background: #0071bc; /* 古いブラウザ用 */
+  background: -webkit-linear-gradient(top, #00619C 0%, #0089DC 100%); /* Chrome 10+, Safari 5.1+ */
+  background: linear-gradient(to bottom, #00619C 0%, #0089DC 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00619C', endColorstr='#0089DC', GradientType=0); /* IE6-9 */
+  border-top-color: #00395C;
+}
+
+/* ページ全体に和文ゴシックフォントを指定しています。 */
+body {
+  font-family:
+      "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",
+      メイリオ, Meiryo,
+      Osaka,
+      "ＭＳ Ｐゴシック", "MS PGothic",
+      sans-serif;
+}
+
+/* Twenty Thirteenでは、フォントスタイルとしてイタリック(斜体)が指定されている箇所がありますが、この記述によって、指定を打ち消し、標準となるよう指定しています。 */
+body * {
+  font-family: inherit !important;
+  font-style: normal !important;
+}
+
+/* サイトのタイトルを42pxに指定しています。*/
+#masthead .site-title {
+  font-size: 42px;
+}
+
+/* キャッチフレーズを16pxに指定しています。 */
+#masthead .site-description,
+#content > header h1 {
+  font-size: 16px;
+}
+
+/* 記事タイトル、コメントタイトル、返信タイトルを28pxに指定しています。 */
+#content article .entry-title,
+#comments .comments-title,
+#reply-title {
+  font-size: 28px;
+}
+
+/* 画面幅が643px以下の場合、サイトのタイトル名を28pxに指定しています。 */
+@media (max-width: 643px) {
+  #masthead .site-title {
+    font-size: 28px;
+  }
+
+/* 画面幅が643px以下の場合、記事タイトル、コメントタイトル、返信タイトルを21pxに指定しています。 */
+  #content article .entry-title,
+  #comments .comments-title,
+  #reply-title {
+    font-size: 21px;
+  }
+}
+
+/* 画面幅が479px以下の場合、サイトのタイトル名を19pxに指定しています。 */
+@media (max-width: 479px) {
+  #masthead .site-title {
+    font-size: 19px;
+  }
+
+/* 画面幅が479px以下の場合、キャッチフレーズを14pxに指定しています。 */
+  #masthead .site-description,
+  #content > header h1 {
+    font-size: 14px;
+  }
+}
+
+/* 画面幅が359px以下の場合、サイトのタイトル名を11pxに指定しています。 */
+@media (max-width: 359px) {
+  #masthead .site-description,
+  #content > header h1 {
+    font-size: 11px;
+  }
+
+/* 画面幅が359px以下の場合、記事タイトル、コメントタイトル、返信タイトルを18pxに指定しています。 */
+  #content article .entry-title,
+  #comments .comments-title,
+  #reply-title {
+    font-size: 18px;
+  }
+}
+
+/* コンテンツエリア部分の余白の調整を行なっています。 */
+#main {
+  padding-bottom: 20px;
+}
+#content > header > h1 {
+  padding-bottom: 15px;
+}
+#content article .entry-header {
+  margin-bottom: 15px;
+}
+#content article .entry-content p {
+  margin-bottom: 12px;
+}
+#content article .entry-content + .entry-meta {
+  margin-top: 12px;
+}
+#content article.hentry {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#content article.hentry:first-child {
+  padding-top: 40px;
+}
+
+/* ページナビ部分の余白の調整を行なっています。 */
+#content nav.post-navigation {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#content nav.paging-navigation {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* コメント欄部分の余白の調整を行なっています。 */
+#comments .comments-title {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+#comments .comment-list article {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+#comments .comment-list article .comment-metadata {
+  margin-bottom: 10px;
+}
+#comments .comment-list article .comment-content p {
+  margin-bottom: 12px;
+}
+#respond {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#reply-title {
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+#commentform p {
+  margin-bottom: 12px;
+}
+
+/* ヘッダー部分の余白の調整を行なっています。 */
+#masthead .site-title {
+  padding-top: 88px;
+  padding-bottom: 4px;
+}
+
+/* ソーシャルエリアをコンテンツ右側へ寄せています。 */
+#content article .sharing-ui {
+  float: right;
+}
+
+/* ソーシャルボタンの幅と位置の調整を行なっています。 */
+#content article .sharing-ui > iframe {
+  width: 112px !important;
+  vertical-align: text-top;
+}
+
+/* 画面幅が359px以下の場合、ソーシャルボタンの位置を変更します。 */
+@media (max-width: 359px) {
+  #content article .sharing-ui {
+    float: none;
+    margin-top: .75em;
+    text-align: center;
+  }
+}
+
+/* コメントフォーム部分の幅の調整を行なっています。 */
+#commentform [for="author"],
+#commentform [for="email"],
+#commentform [for="url"],
+#commentform [for="comment"] {
+  width: 136px;
+}
+
+/* サイドバーのFacebookウィジェットの幅がレスポンシブでレイアウトが変わった際にも、広がるように指定しています。 */
+#tertiary .widget iframe[src^="//www.facebook.com/plugins/likebox.php"] {
+  width: 100% !important;
+}
+/* 画面幅が360px以下の場合のTwitterウィジェット幅を調整しています。 */
+@media (min-width: 360px) {
+  #tertiary .widget iframe.twitter-timeline {
+    width: 100% !important;
+  }
+}
+
+/* サイドバーに挿入するバナーの幅を、ウィジェットエリアに合わせます。 */
+#tertiary .widget a.banner img {
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 画面幅が643px以下の場合、グローバルナビゲーションに下線をつけます。 */
+@media (max-width: 643px) {
+  #navbar .toggled-on .nav-menu {
+    border-top: 1px solid #0071bc;
+  }
+}
+#content article.attachment .entry-title,
+#content article.format-link .entry-title {
+  border-bottom: none;
+}
+
+/* フッター上部の境界線の調整を行なっています。 */
+#colophon {
+  border-top: 8px solid #66a3ff;
+}
+#page {
+  border: none;
+}
+#masthead .site-title:hover,
+#content article .entry-title a:hover {
+  text-decoration: none;
+}
+
+/* フッター部分のリンクに下線をつけます。 */
+#secondary a {
+  text-decoration: underline;
+}
+
+/* リンクにカーソルをあてた時に下線を取り除きます */
+#secondary a:hover {
+  text-decoration: none;
+}
+
+/* 検索ボックスの設定をします。 */
+#navbar .search-form [type="search"],
+#navbar .search-form [type="text"] {
+  background-image: url("./images/search-icon-white.png");
+}
+#navbar .search-form [type="search"]:focus,
+#navbar .search-form [type="text"]:focus {
+  background-image: url("./images/search-icon-blue.png");
+}
+
+/* Android端末対応のために調整しています。 */
+#navbar .search-form {
+  text-align: right;
+}
+@media print,
+    (-o-min-device-pixel-ratio: 5/4),
+    (-webkit-min-device-pixel-ratio: 1.25),
+    (min-resolution: 120dpi) {
+  #navbar .search-form [type="search"],
+  #navbar .search-form [type="text"] {
+    background-image: url("./images/search-icon-white-2x.png");
+  }
+}
+
+/* 見出しの文字を太くします。 */
+#content article .entry-title {
+  font-weight: bold;
+}
+
+/* 404ページのタイトル色と透明度を設定します。 */
+.error404 #content .page-title:before {
+  color: #66a3ff;
+  opacity: .38;
+}

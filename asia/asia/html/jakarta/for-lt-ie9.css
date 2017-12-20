@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+#content > article > * {
+  width: 1040px !important;
+  max-width: 1040px !important;
+}

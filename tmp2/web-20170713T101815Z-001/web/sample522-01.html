@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>モーダルダイアログ</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<div class="container">        <!-- 全体を囲むコンテナ -->
+
+<h1 class="page-header">モーダルの表示</h1>
+
+<button class="btn btn-primary" data-toggle="modal" data-target="#p-lg">大サイズ</button>
+<button class="btn btn-primary" data-toggle="modal" data-target="#p-md">標準</button>
+<button class="btn btn-primary" data-toggle="modal" data-target="#p-sm">小サイズ</button>
+
+<!-- 大サイズ用モーダル -->
+<div class="modal fade" id="p-lg">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button class="close" data-dismiss="modal">
+          <span aria-hidden="true">&times;</span><span class="sr-only">閉じる</span>
+        </button>
+        <h4 class="modal-title">castle-01.jpg</h4>
+        <img src="photo/castle-01.jpg" class="img-responsive">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 標準サイズ用モーダル -->
+<div class="modal fade" id="p-md">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button class="close" data-dismiss="modal">
+          <span aria-hidden="true">&times;</span><span class="sr-only">閉じる</span>
+        </button>
+        <h4 class="modal-title">castle-01.jpg</h4>
+        <img src="photo/castle-01.jpg" class="img-responsive">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 小サイズ用モーダル -->
+<div class="modal fade" id="p-sm">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button class="close" data-dismiss="modal">
+          <span aria-hidden="true">&times;</span><span class="sr-only">閉じる</span>
+        </button>
+        <h4 class="modal-title">castle-01.jpg</h4>
+        <img src="photo/castle-01.jpg" class="img-responsive">
+      </div>
+    </div>
+  </div>
+</div>
+
+<br><br><br>
+
+<h3>大サイズ</h3>
+<p>モーダルが<b class="text-danger">幅900px</b>で表示されます。ただし、この指定が有効になるのは<b class="text-danger">ウィンドウ幅が992px以上</b>のときだけです。</p>
+<p>※ウィンドウ幅が991px以下のときは<b>幅600px</b>で表示されます。<br>
+※ウィンドウ幅が767px以下のときは<b>「ウィンドウ幅に合わせた表示」</b>になります。</p>
+
+<h3>標準</h3>
+<p>モーダルが<b class="text-danger">幅600px</b>で表示されます。<p>
+<p>※ウィンドウ幅が767px以下のときは<b>「ウィンドウ幅に合わせた表示」</b>になります。</p>
+
+<h3>小サイズ</h3>
+<p>モーダルが<b class="text-danger">幅300px</b>で表示されます。ただし、この指定が有効になるのは<b class="text-danger">ウィンドウ幅が768px以上</b>のときだけです。</p>
+<p>※ウィンドウ幅が767px以下のときは<b>「ウィンドウ幅に合わせた表示」</b>になります。</p>
+</p>
+
+
+
+</div>        <!-- 全体を囲むコンテナ -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

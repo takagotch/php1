@@ -1,0 +1,1 @@
+<a class="banner" href="http://wpbk2.azurewebsites.net/"><img src="/blog/wp-content/uploads/2013/07/banner-apt.png" /></a>

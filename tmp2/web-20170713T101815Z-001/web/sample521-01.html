@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>モーダルダイアログ</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<div class="container">        <!-- 全体を囲むコンテナ -->
+
+<h1 class="page-header">モーダルの表示</h1>
+<button class="btn btn-primary" data-toggle="modal" data-target="#holiday-oct">
+  今月の休業日
+</button>
+<div class="modal fade" id="holiday-oct">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button class="close" data-dismiss="modal">
+          <span aria-hidden="true">&times;</span><span class="sr-only">閉じる</span>
+        </button>
+        <h4 class="modal-title">2014年10月の休業日</h4>
+      </div>
+      <div class="modal-body">
+        10月の定休日は、<br><b>2日、9日、16日、23日、30日</b>です。（毎週木曜日）<br><br>
+        また、店舗改装のため<b>10月13～15日</b>は臨時休業させていただきます。<br><br>
+        皆様にはご迷惑をおかけしますが、何卒よろしくお願い致します。
+      </div>
+      <div class="modal-footer">
+        <p>boot dining 渋谷店</p>
+        <button class="btn btn-primary btn-sm" data-dismiss="modal">閉じる</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>        <!-- 全体を囲むコンテナ -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

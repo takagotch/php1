@@ -1,0 +1,12 @@
+/*
+Theme Name: Jakarta
+Theme URI: http://www.prime-strategy.co.jp/download/
+Description: 
+Author: Prime Strategy Co.,Ltd.
+Author URI: http://prime-strategy.co.jp/
+Template: twentythirteen
+Version: 1.0
+*/
+
+/* 親テーマのスタイルシートを読み込む */
+@import url("../twentythirteen/style.css");
